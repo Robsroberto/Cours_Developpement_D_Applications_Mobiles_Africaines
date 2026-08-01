@@ -1,0 +1,57 @@
+{
+  "slug": "developpement-d-applications-mobiles-africaines",
+  "title": "Créer des applications mobiles pour le marché africain",
+  "description": "Apprenez à développer des applications mobiles innovantes pour répondre aux besoins spécifiques du marché africain. Découvrez les dernières tendances et technologies pour créer des expériences mobiles exceptionnelles. Développez vos compétences pour répondre aux défis du marché africain.",
+  "level": "intermediaire",
+  "icon": "📱",
+  "tags": [
+    "développement mobile",
+    "applications africaines",
+    "innovation numérique"
+  ],
+  "price": 5000,
+  "free_chapters": 2,
+  "version": "1.0.0",
+  "chapters": [
+    {
+      "file": "01-introduction-au-marche-africain.md",
+      "title": "Introduction au marché africain des applications mobiles"
+    },
+    {
+      "file": "02-concepts-de-base-du-developpement-mobile.md",
+      "title": "Concepts de base du développement mobile"
+    },
+    {
+      "file": "03-choix-de-la-plateforme-de-developpement.md",
+      "title": "Choix de la plateforme de développement"
+    },
+    {
+      "file": "04-design-et-ux-ui.md",
+      "title": "Design et UX/UI pour les applications mobiles africaines"
+    },
+    {
+      "file": "05-developpement-d-applications-mobiles-africaines.md",
+      "title": "Développement d'applications mobiles africaines"
+    },
+    {
+      "file": "06-integration-des-services-web.md",
+      "title": "Intégration des services web"
+    },
+    {
+      "file": "07-tests-et-deploiement.md",
+      "title": "Tests et déploiement des applications mobiles africaines"
+    },
+    {
+      "file": "08-maintenance-et-mise-a-jour.md",
+      "title": "Maintenance et mise à jour des applications mobiles africaines"
+    },
+    {
+      "file": "09-marketing-et-promotion.md",
+      "title": "Marketing et promotion des applications mobiles africaines"
+    },
+    {
+      "file": "10-projet-de-developpement-d-application-mobile.md",
+      "title": "Projet de développement d'application mobile"
+    }
+  ]
+}
